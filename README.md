@@ -1,6 +1,6 @@
-# Lottie Animations
+# Lottie Files
 
-A little project that showcases the ease of using Lottie Animations to easily use and modify animated SVG assets.
+A little project that showcases the ease of using Lottie Files to easily use and modify animated SVG assets.
 
 Project made by Mario (with some of my own code modifications).
 
